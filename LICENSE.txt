@@ -1,0 +1,8 @@
+BoDiGi™ Proprietary Use License v1.0
+Copyright © 2025 Bobbie Jo Gray
+
+This software and all associated logic, agents, and visuals (including Aura™ and Boltz™) are proprietary property of Bobbie Digital LLC. You may not copy, distribute, resell, or reverse-engineer any portion of this code without written permission.
+
+This platform is protected by the Machine Context Protocol and enforced by agent-based authentication.
+
+For licensing, contact support-marketing@bobbiedigital.com
